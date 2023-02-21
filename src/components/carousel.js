@@ -82,7 +82,7 @@ const Carousel = ({
   }
 
   return (
-    <div className=" mb-8 ">
+    <div className=" mb-8 carousel ">
       <h2 className="pl-2 text-3xl pb-2 text-clay-100 bold">{title}</h2>
       <Slider {...settings}>
         {filteredGames.map((game, index) => (

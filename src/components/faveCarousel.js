@@ -67,7 +67,7 @@ const FaveCarousel = ({
   
 
   return (
-    <div className=" mb-8 ">
+    <div id="faves" className=" mb-8 ">
       <h2 className="pl-2 text-3xl pb-2 text-clay-100 bold">Favourites</h2>
 
 

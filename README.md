@@ -1,7 +1,13 @@
 
 ## About
+A minisite that uses a dataset of games and their review scores to play higher or lower.
+users must guess which game has the higher metacritic score. the landing page is also
+a display of a few games. 
 
 
+## Data used
+Video Game Sales with Ratings
+https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 
 ## Tools Used
 Nextjs
@@ -10,10 +16,6 @@ Tailwind
 Kaggle
 HeroIcons
 Playwright
-
-
-
-
 
 ## Getting Started
 

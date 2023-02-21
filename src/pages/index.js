@@ -22,6 +22,7 @@ export default function Home() {
       <Head>
         <title>GAME HoL</title>
         <meta name="description" content="Guess which game has the higher metacritic score" />
+        <meta name="author" content="Sean Lam" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.svg" />
       </Head>

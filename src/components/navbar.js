@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 export default function NavBar() {
   const router = useRouter();
   return (
-    <div className="p-3 flex justify-between items-center w-full flex-col sm:flex-row bg-clay-800 drop-shadow-2xl">
+    <div className="p-3 nav flex justify-between items-center w-full flex-col sm:flex-row bg-clay-800 drop-shadow-2xl">
       <Image  onClick={() => {router.push("/")}} src="/logo.png" alt="logo" width={300} height={100} />
     
     
