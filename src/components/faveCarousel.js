@@ -28,7 +28,7 @@ const FaveCarousel = ({
         breakpoint: 1024,
         settings: {
          
-          centerMode: false,
+          centerMode: true,
           slidesToShow: 3,
           slidesToScroll: 1,
           infinite: true,
@@ -44,7 +44,7 @@ const FaveCarousel = ({
           slidesToShow: 1,
           slidesToScroll: 1,
           initialSlide: 1,
-          infinite: true,
+          infinite: false,
           dots: false,
           arrows: false,
         },
@@ -56,7 +56,7 @@ const FaveCarousel = ({
           slidesToShow: 1,
           slidesToScroll: 1,
           initialSlide: 1,
-          infinite: true,
+          infinite: false,
           dots: false,
           arrows: false,
         },
