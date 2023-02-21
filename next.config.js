@@ -144,12 +144,10 @@ module.exports = {
       "i.guim.co.uk",
       "images.launchbox-app.com",
       "assets1.ignimgs.com",
-      "hardcore-gamer.s3.amazonaws.com",
       "assets.gamingintelligence.com",
       "dsmedia.ign.com",
       "cdn1.epicgames.com",
       "image.api.playstation.com",
-      
     ],
   },
 };
